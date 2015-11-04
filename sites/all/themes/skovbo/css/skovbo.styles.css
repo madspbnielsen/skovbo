@@ -1,0 +1,36 @@
+/* No files to import found in abstractions/**\/* */
+/* line 1, ../sass/base/_media.scss */
+img, media {
+  max-width: 100%; }
+
+/* line 25, ../sass/skovbo.styles.scss */
+body {
+  font-family: "Open Sans"; }
+
+/* line 30, ../sass/skovbo.styles.scss */
+.l-page {
+  width: 960px;
+  margin: 0 auto; }
+
+/* line 35, ../sass/skovbo.styles.scss */
+.l-header {
+  margin-top: 20px;
+  width: 100%;
+  float: left; }
+
+/* line 40, ../sass/skovbo.styles.scss */
+.l-branding a.site-logo img {
+  float: left; }
+
+/* line 44, ../sass/skovbo.styles.scss */
+.toptekst {
+  width: 100%;
+  text-align: right;
+  color: #065284;
+  height: 65px; }
+
+/* line 50, ../sass/skovbo.styles.scss */
+.sf-menu li ul {
+  overflow: visible !important; }
+
+/*# sourceMappingURL=skovbo.styles.css.map */
