@@ -2,7 +2,7 @@
 /* line 1, ../sass/base/_media.scss */
 img, media {
   max-width: 100%; }
-
+/*ekstra kommentar*/
 /* line 25, ../sass/skovbo.styles.scss */
 body {
   font-family: "Open Sans"; }
@@ -36,7 +36,7 @@ body {
 /*# sourceMappingURL=skovbo.styles.css.map */
 
 
-/* tlføjelser her*/
+/* tlfÃ¸jelser her*/
 .body_top{
 width: 28px;
 
